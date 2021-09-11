@@ -1,1 +1,1 @@
-This is file 2, adding this to create a conflict... from branch feature_a
+This is file 2, adding this to create a conflict... from branch feature_a.. adding stuff
