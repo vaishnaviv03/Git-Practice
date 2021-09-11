@@ -1,1 +1,3 @@
 This is file 2 from branch feature_a.. adding stuff
+This is line2 in master branch for rebase
+This is line3 in master branch for rebase
